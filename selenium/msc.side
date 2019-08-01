@@ -1,0 +1,269 @@
+{
+  "id": "075261dc-3932-48ed-aeac-7e4d7085eebb",
+  "version": "2.0",
+  "name": "msc",
+  "url": "https://www.msc.com",
+  "tests": [{
+    "id": "a8f5a7a6-df7b-4bf2-bc0a-468f47337bbe",
+    "name": "T07A271797",
+    "commands": [{
+      "id": "8db6efb3-82c2-4089-89cc-1dbadb64319b",
+      "comment": "",
+      "command": "open",
+      "target": "/?redirect=/track-a-shipment",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "f7aac425-7bd1-4c79-8f28-22b56e0a6600",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1230x680",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "40f51b05-c82c-41e1-83b8-8df16b1042b3",
+      "comment": "",
+      "command": "click",
+      "target": "id=CountryDetectionModal_rptMatchingAgencies_ctl00_hlkModalContinue",
+      "targets": [
+        ["id=CountryDetectionModal_rptMatchingAgencies_ctl00_hlkModalContinue", "id"],
+        ["css=#CountryDetectionModal_rptMatchingAgencies_ctl00_hlkModalContinue", "css:finder"],
+        ["xpath=//a[contains(text(),'View United States')]", "xpath:link"],
+        ["xpath=//a[@id='CountryDetectionModal_rptMatchingAgencies_ctl00_hlkModalContinue']", "xpath:attributes"],
+        ["xpath=//div[@id='countryModal']/div/a", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, '/track-a-shipment?agencyPath=usa')])[2]", "xpath:href"],
+        ["xpath=//body/div/div/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "d3e2395f-8a5a-4099-9a0e-3496015d6362",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "id=ctl00_ctl00_Header_HeaderMenuUpper_hlkSNavNews",
+      "targets": [
+        ["id=ctl00_ctl00_Header_HeaderMenuUpper_hlkSNavNews", "id"],
+        ["linkText=NEWS", "linkText"],
+        ["css=#ctl00_ctl00_Header_HeaderMenuUpper_hlkSNavNews", "css:finder"],
+        ["xpath=//a[contains(text(),'NEWS')]", "xpath:link"],
+        ["xpath=//a[@id='ctl00_ctl00_Header_HeaderMenuUpper_hlkSNavNews']", "xpath:attributes"],
+        ["xpath=//form[@id='aspnetForm']/div[4]/div/header/div/div[2]/div/div/div/nav/a[3]", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, '/usa/news')])[2]", "xpath:href"],
+        ["xpath=//a[3]", "xpath:position"],
+        ["xpath=//a[contains(.,'NEWS')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "c9005b62-8b74-4257-bc58-ac9ce8c9f0b8",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "linkText=Terms & Conditions",
+      "targets": [
+        ["linkText=Terms & Conditions", "linkText"],
+        ["css=p:nth-child(2) > a:nth-child(2)", "css:finder"],
+        ["xpath=//a[contains(text(),'Terms & Conditions')]", "xpath:link"],
+        ["xpath=//div[@id='cookiePolicyModal']/div/div/p/a[2]", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, '/usa/terms-conditions')])[2]", "xpath:href"],
+        ["xpath=//div[5]/div/div/p/a[2]", "xpath:position"],
+        ["xpath=//a[contains(.,'Terms & Conditions')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "54e37ea5-d179-4bc8-aba9-2a0c4ddf430c",
+      "comment": "",
+      "command": "click",
+      "target": "css=.reveal-modal-bg",
+      "targets": [
+        ["css=.reveal-modal-bg", "css:finder"],
+        ["xpath=//body/div[3]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "c76e92dc-7449-494a-992c-50a20895964b",
+      "comment": "",
+      "command": "click",
+      "target": "css=.bottom > .row",
+      "targets": [
+        ["css=.bottom > .row", "css:finder"],
+        ["xpath=//main[@id='content']/div/div[3]/div/div", "xpath:idRelative"],
+        ["xpath=//main/div/div[3]/div/div", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "3f94bbad-b9cd-432f-bca9-c601f2249538",
+      "comment": "",
+      "command": "click",
+      "target": "css=.bottom > .row",
+      "targets": [
+        ["css=.bottom > .row", "css:finder"],
+        ["xpath=//main[@id='content']/div/div[3]/div/div", "xpath:idRelative"],
+        ["xpath=//main/div/div[3]/div/div", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "24b5a2a0-f671-4d1d-b638-5aca1481517e",
+      "comment": "",
+      "command": "doubleClick",
+      "target": "css=.bottom > .row",
+      "targets": [
+        ["css=.bottom > .row", "css:finder"],
+        ["xpath=//main[@id='content']/div/div[3]/div/div", "xpath:idRelative"],
+        ["xpath=//main/div/div[3]/div/div", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "930a1dca-cd57-4e0d-b184-4ce9d7610a42",
+      "comment": "",
+      "command": "click",
+      "target": "css=.bottom > .row",
+      "targets": [
+        ["css=.bottom > .row", "css:finder"],
+        ["xpath=//main[@id='content']/div/div[3]/div/div", "xpath:idRelative"],
+        ["xpath=//main/div/div[3]/div/div", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "f4e3200b-85d0-47a7-80b0-1afc84db7137",
+      "comment": "",
+      "command": "click",
+      "target": "css=.bottom > .row",
+      "targets": [
+        ["css=.bottom > .row", "css:finder"],
+        ["xpath=//main[@id='content']/div/div[3]/div/div", "xpath:idRelative"],
+        ["xpath=//main/div/div[3]/div/div", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "479267d2-9175-479a-a21c-45ba7c6d38cc",
+      "comment": "",
+      "command": "doubleClick",
+      "target": "css=.bottom > .row",
+      "targets": [
+        ["css=.bottom > .row", "css:finder"],
+        ["xpath=//main[@id='content']/div/div[3]/div/div", "xpath:idRelative"],
+        ["xpath=//main/div/div[3]/div/div", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "00857d7e-ac1b-4392-bcea-3e2070784016",
+      "comment": "",
+      "command": "click",
+      "target": "css=.bottom > .row",
+      "targets": [
+        ["css=.bottom > .row", "css:finder"],
+        ["xpath=//main[@id='content']/div/div[3]/div/div", "xpath:idRelative"],
+        ["xpath=//main/div/div[3]/div/div", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "2d4ad4b0-e2ac-4b9a-93ac-ef385e622cf1",
+      "comment": "",
+      "command": "click",
+      "target": "id=ctl00_ctl00_plcMain_plcMain_TrackSearch_txtBolSearch_TextField",
+      "targets": [
+        ["id=ctl00_ctl00_plcMain_plcMain_TrackSearch_txtBolSearch_TextField", "id"],
+        ["name=ctl00$ctl00$plcMain$plcMain$TrackSearch$txtBolSearch$TextField", "name"],
+        ["css=#ctl00_ctl00_plcMain_plcMain_TrackSearch_txtBolSearch_TextField", "css:finder"],
+        ["xpath=//input[@id='ctl00_ctl00_plcMain_plcMain_TrackSearch_txtBolSearch_TextField']", "xpath:attributes"],
+        ["xpath=//div[@id='ctl00_ctl00_plcMain_plcMain_TrackSearch_txtBolSearch_FieldWrap']/input", "xpath:idRelative"],
+        ["xpath=//div/div/div/div/div/div/div/div/div/div/div[2]/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "a26f8261-9443-4f6b-b400-70937a285cc0",
+      "comment": "",
+      "command": "type",
+      "target": "id=ctl00_ctl00_plcMain_plcMain_TrackSearch_txtBolSearch_TextField",
+      "targets": [
+        ["id=ctl00_ctl00_plcMain_plcMain_TrackSearch_txtBolSearch_TextField", "id"],
+        ["name=ctl00$ctl00$plcMain$plcMain$TrackSearch$txtBolSearch$TextField", "name"],
+        ["css=#ctl00_ctl00_plcMain_plcMain_TrackSearch_txtBolSearch_TextField", "css:finder"],
+        ["xpath=//input[@id='ctl00_ctl00_plcMain_plcMain_TrackSearch_txtBolSearch_TextField']", "xpath:attributes"],
+        ["xpath=//div[@id='ctl00_ctl00_plcMain_plcMain_TrackSearch_txtBolSearch_FieldWrap']/input", "xpath:idRelative"],
+        ["xpath=//div/div/div/div/div/div/div/div/div/div/div[2]/input", "xpath:position"]
+      ],
+      "value": "T07A271797"
+    }, {
+      "id": "749569d0-3cb9-4fe9-bfcf-2eaa05b879c7",
+      "comment": "",
+      "command": "click",
+      "target": "id=ctl00_ctl00_plcMain_plcMain_TrackSearch_hlkSearch",
+      "targets": [
+        ["id=ctl00_ctl00_plcMain_plcMain_TrackSearch_hlkSearch", "id"],
+        ["css=#ctl00_ctl00_plcMain_plcMain_TrackSearch_hlkSearch", "css:finder"],
+        ["xpath=//a[@id='ctl00_ctl00_plcMain_plcMain_TrackSearch_hlkSearch']", "xpath:attributes"],
+        ["xpath=//div[@id='ctl00_ctl00_plcMain_plcMain_TrackSearch_pnlTrackSearchForm']/div/div[2]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(\"ctl00$ctl00$plcMain$plcMain$TrackSearch$hlkSearch\", \"\", true, \"BolSearchPage\", \"\", false, true))')]", "xpath:href"],
+        ["xpath=//main/div/div/div/div/div/div/div/div/div[2]/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "86ff8135-9a13-4025-b96c-7b5fc854fcf9",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "id=ctl00_ctl00_Header_HeaderMenuUpper_hlkSNavNews",
+      "targets": [
+        ["id=ctl00_ctl00_Header_HeaderMenuUpper_hlkSNavNews", "id"],
+        ["linkText=NEWS", "linkText"],
+        ["css=#ctl00_ctl00_Header_HeaderMenuUpper_hlkSNavNews", "css:finder"],
+        ["xpath=//a[contains(text(),'NEWS')]", "xpath:link"],
+        ["xpath=//a[@id='ctl00_ctl00_Header_HeaderMenuUpper_hlkSNavNews']", "xpath:attributes"],
+        ["xpath=//form[@id='aspnetForm']/div[4]/div/header/div/div[2]/div/div/div/nav/a[3]", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, '/usa/news')])[2]", "xpath:href"],
+        ["xpath=//a[3]", "xpath:position"],
+        ["xpath=//a[contains(.,'NEWS')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "f83b0f25-dde2-4460-a45d-165d190afd6e",
+      "comment": "",
+      "command": "mouseOut",
+      "target": "id=ctl00_ctl00_Header_HeaderMenuUpper_hlkSNavNews",
+      "targets": [
+        ["id=ctl00_ctl00_Header_HeaderMenuUpper_hlkSNavNews", "id"],
+        ["linkText=NEWS", "linkText"],
+        ["css=#ctl00_ctl00_Header_HeaderMenuUpper_hlkSNavNews", "css:finder"],
+        ["xpath=//a[contains(text(),'NEWS')]", "xpath:link"],
+        ["xpath=//a[@id='ctl00_ctl00_Header_HeaderMenuUpper_hlkSNavNews']", "xpath:attributes"],
+        ["xpath=//form[@id='aspnetForm']/div[4]/div/header/div/div[2]/div/div/div/nav/a[3]", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, '/usa/news')])[2]", "xpath:href"],
+        ["xpath=//a[3]", "xpath:position"],
+        ["xpath=//a[contains(.,'NEWS')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "aa6884a6-ab12-4953-9d4d-71a8c975fc6a",
+      "comment": "",
+      "command": "click",
+      "target": "css=#ctl00_ctl00_plcMain_plcMain_pnlTrackingResults > h3",
+      "targets": [
+        ["css=#ctl00_ctl00_plcMain_plcMain_pnlTrackingResults > h3", "css:finder"],
+        ["xpath=//div[@id='ctl00_ctl00_plcMain_plcMain_pnlTrackingResults']/h3", "xpath:idRelative"],
+        ["xpath=//h3", "xpath:position"],
+        ["xpath=//h3[contains(.,'No matching tracking information. Please try again.')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "93f7d371-607a-4d35-9f8a-72ea3a752473",
+      "comment": "",
+      "command": "verifyText",
+      "target": "css=#ctl00_ctl00_plcMain_plcMain_pnlTrackingResults > h3",
+      "targets": [
+        ["css=#ctl00_ctl00_plcMain_plcMain_pnlTrackingResults > h3", "css:finder"],
+        ["xpath=//div[@id='ctl00_ctl00_plcMain_plcMain_pnlTrackingResults']/h3", "xpath:idRelative"],
+        ["xpath=//h3", "xpath:position"],
+        ["xpath=//h3[contains(.,'No matching tracking information. Please try again.')]", "xpath:innerText"]
+      ],
+      "value": "No matching tracking information. Please try again."
+    }]
+  }],
+  "suites": [{
+    "id": "d2a6b54e-fc9f-4673-8264-5abfe0011144",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["a8f5a7a6-df7b-4bf2-bc0a-468f47337bbe"]
+  }],
+  "urls": ["https://www.msc.com/"],
+  "plugins": []
+}

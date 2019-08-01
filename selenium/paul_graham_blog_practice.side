@@ -1,0 +1,167 @@
+{
+  "id": "1ca6cf10-139e-45da-8379-dfc6973750d9",
+  "version": "2.0",
+  "name": "paul_graham_blog_practice",
+  "url": "http://paulgraham.com",
+  "tests": [{
+    "id": "3ab6f6ca-bfc4-4f79-813d-fa9ba3c83cb4",
+    "name": "test1",
+    "commands": [{
+      "id": "5cc9905a-bd78-49ae-88e1-9de40d43e2ec",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "2dd8902e-4e74-483a-9dbb-fea7f95e01df",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1229x688",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "faf0e678-073b-4b9c-8c46-fe74d014340e",
+      "comment": "",
+      "command": "click",
+      "target": "css=table:nth-child(2) td",
+      "targets": [
+        ["css=table:nth-child(2) td", "css:finder"],
+        ["xpath=//table[2]/tbody/tr/td", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "800c038c-449f-448e-8c84-0aac0c08de35",
+      "comment": "",
+      "command": "verifyText",
+      "target": "css=table:nth-child(2) font",
+      "targets": [
+        ["css=table:nth-child(2) font", "css:finder"],
+        ["xpath=//table[2]/tbody/tr/td/font", "xpath:position"]
+      ],
+      "value": "Want to start a startup? Get funded by Y Combinator."
+    }, {
+      "id": "d11ee67d-249a-4763-ab68-5adec99ed64f",
+      "comment": "",
+      "command": "click",
+      "target": "css=area:nth-child(1)",
+      "targets": [
+        ["css=area:nth-child(1)", "css:finder"],
+        ["xpath=//area", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "d67e6c3c-7461-4a3a-89b0-815586cb8b9b",
+      "comment": "",
+      "command": "click",
+      "target": "css=tr:nth-child(2) > td",
+      "targets": [
+        ["css=tr:nth-child(2) > td", "css:finder"],
+        ["xpath=//tr[2]/td", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "0c041156-ea15-44ff-8419-798e582b35d2",
+      "comment": "",
+      "command": "verifyText",
+      "target": "linkText=General and Surprising",
+      "targets": [
+        ["linkText=General and Surprising", "linkText"],
+        ["css=tr:nth-child(2) a", "css:finder"],
+        ["xpath=//a[contains(text(),'General and Surprising')]", "xpath:link"],
+        ["xpath=//a[contains(@href, 'sun.html')]", "xpath:href"],
+        ["xpath=//font/a", "xpath:position"],
+        ["xpath=//a[contains(.,'General and Surprising')]", "xpath:innerText"]
+      ],
+      "value": "General and Surprising"
+    }, {
+      "id": "a42a5345-4a50-4c34-92fb-4e9e3864e593",
+      "comment": "",
+      "command": "verifyText",
+      "target": "linkText=Charisma / Power",
+      "targets": [
+        ["linkText=Charisma / Power", "linkText"],
+        ["css=tr:nth-child(4) a", "css:finder"],
+        ["xpath=//a[contains(text(),'Charisma / Power')]", "xpath:link"],
+        ["xpath=//a[contains(@href, 'pow.html')]", "xpath:href"],
+        ["xpath=//tr[4]/td/font/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Charisma / Power')]", "xpath:innerText"]
+      ],
+      "value": "Charisma / Power"
+    }, {
+      "id": "273de077-b92b-49ff-8bb0-cd5fd2be6a17",
+      "comment": "",
+      "command": "mouseDownAt",
+      "target": "css=tr:nth-child(6) > td",
+      "targets": [
+        ["css=tr:nth-child(6) > td", "css:finder"],
+        ["xpath=//tr[6]/td", "xpath:position"]
+      ],
+      "value": "185,15"
+    }, {
+      "id": "c7835aeb-dcbe-4ae1-b59d-2abbf95c09ed",
+      "comment": "",
+      "command": "mouseMoveAt",
+      "target": "css=tr:nth-child(6) > td",
+      "targets": [
+        ["css=tr:nth-child(6) > td", "css:finder"],
+        ["xpath=//tr[6]/td", "xpath:position"]
+      ],
+      "value": "185,15"
+    }, {
+      "id": "e0964c24-424c-4166-90c8-06c4fa820455",
+      "comment": "",
+      "command": "mouseUpAt",
+      "target": "css=tr:nth-child(6) > td",
+      "targets": [
+        ["css=tr:nth-child(6) > td", "css:finder"],
+        ["xpath=//tr[6]/td", "xpath:position"]
+      ],
+      "value": "185,15"
+    }, {
+      "id": "02bb6838-0f87-49e9-9945-d386792d7cc3",
+      "comment": "",
+      "command": "click",
+      "target": "css=tr:nth-child(6) > td",
+      "targets": [
+        ["css=tr:nth-child(6) > td", "css:finder"],
+        ["xpath=//tr[6]/td", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "fbac84e2-c287-4f35-9bdf-5805c1e0a78c",
+      "comment": "",
+      "command": "click",
+      "target": "css=tr:nth-child(6) > td",
+      "targets": [
+        ["css=tr:nth-child(6) > td", "css:finder"],
+        ["xpath=//tr[6]/td", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "30e337c8-c15d-4b03-8b23-3bbcdf4c0a35",
+      "comment": "",
+      "command": "verifyText",
+      "target": "linkText=The Risk of Discovery",
+      "targets": [
+        ["linkText=The Risk of Discovery", "linkText"],
+        ["css=tr:nth-child(6) a", "css:finder"],
+        ["xpath=//a[contains(text(),'The Risk of Discovery')]", "xpath:link"],
+        ["xpath=//a[contains(@href, 'disc.html')]", "xpath:href"],
+        ["xpath=//tr[6]/td/font/a", "xpath:position"],
+        ["xpath=//a[contains(.,'The Risk of Discovery')]", "xpath:innerText"]
+      ],
+      "value": "The Risk of Discovery"
+    }]
+  }],
+  "suites": [{
+    "id": "c4ecd526-a8c5-45a2-95f7-f1bdc4a5c051",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["3ab6f6ca-bfc4-4f79-813d-fa9ba3c83cb4"]
+  }],
+  "urls": ["http://paulgraham.com/"],
+  "plugins": []
+}

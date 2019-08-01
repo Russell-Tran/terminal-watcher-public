@@ -1,0 +1,346 @@
+{
+  "id": "e9b0a688-c6e7-4a24-82d7-ecdc45ff2ccd",
+  "version": "2.0",
+  "name": "trapac_jacksonville",
+  "url": "https://jacksonville.trapac.com",
+  "tests": [{
+    "id": "66c60a62-975a-4bc9-9ca4-e4bfa8f3bf15",
+    "name": "FCIU8433706",
+    "commands": [{
+      "id": "3609d569-4204-4381-a896-d1d06e6790bc",
+      "comment": "",
+      "command": "open",
+      "target": "/quick-check/?terminal=JAX&transaction=availability",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "29dcc664-ae8f-42a0-b997-40530fcd260e",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1230x680",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "3469b7ae-218e-4d00-a8b7-a51b01f1fd0a",
+      "comment": "",
+      "command": "click",
+      "target": "id=edit-containers",
+      "targets": [
+        ["id=edit-containers", "id"],
+        ["name=containers", "name"],
+        ["css=#edit-containers", "css:finder"],
+        ["xpath=//textarea[@id='edit-containers']", "xpath:attributes"],
+        ["xpath=//form[@id='transaction-form']/div[2]/fieldset/div/textarea", "xpath:idRelative"],
+        ["xpath=//textarea", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "a7a0ea38-d889-4ea8-86a7-0701d19121ea",
+      "comment": "",
+      "command": "type",
+      "target": "id=edit-containers",
+      "targets": [
+        ["id=edit-containers", "id"],
+        ["name=containers", "name"],
+        ["css=#edit-containers", "css:finder"],
+        ["xpath=//textarea[@id='edit-containers']", "xpath:attributes"],
+        ["xpath=//form[@id='transaction-form']/div[2]/fieldset/div/textarea", "xpath:idRelative"],
+        ["xpath=//textarea", "xpath:position"]
+      ],
+      "value": "FCIU8433706"
+    }, {
+      "id": "c527ad62-aa59-480b-b449-6bf207c95752",
+      "comment": "",
+      "command": "click",
+      "target": "css=button:nth-child(1)",
+      "targets": [
+        ["css=button:nth-child(1)", "css:finder"],
+        ["xpath=//button[@type='submit']", "xpath:attributes"],
+        ["xpath=//form[@id='transaction-form']/div[3]/button", "xpath:idRelative"],
+        ["xpath=//button", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "ae91ecfa-9848-4bcd-bc97-813794fdd7ec",
+      "comment": "",
+      "command": "click",
+      "target": "css=td:nth-child(2)",
+      "targets": [
+        ["css=td:nth-child(2)", "css:finder"],
+        ["xpath=//div[@id='transaction-detail-result']/div/div/table/tbody/tr/td[2]", "xpath:idRelative"],
+        ["xpath=//td[2]", "xpath:position"],
+        ["xpath=//td[contains(.,'FCIU8433706')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "5ca28d0b-f769-44ec-b69a-7e2ee3ca460c",
+      "comment": "",
+      "command": "verifyText",
+      "target": "css=strong",
+      "targets": [
+        ["css=strong", "css:finder"],
+        ["xpath=//div[@id='transaction-detail-result']/div/div/table/tbody/tr/td[2]/strong", "xpath:idRelative"],
+        ["xpath=//strong", "xpath:position"],
+        ["xpath=//strong[contains(.,'FCIU8433706')]", "xpath:innerText"]
+      ],
+      "value": "FCIU8433706"
+    }, {
+      "id": "305d7e9c-3383-4b75-81b2-c7443c9b70ef",
+      "comment": "",
+      "command": "click",
+      "target": "css=.td-holds:nth-child(3)",
+      "targets": [
+        ["css=.td-holds:nth-child(3)", "css:finder"],
+        ["xpath=//div[@id='transaction-detail-result']/div/div/table/tbody/tr/td[3]", "xpath:idRelative"],
+        ["xpath=//td[3]", "xpath:position"],
+        ["xpath=//td[contains(.,'Released')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "4351d0ee-8d43-495a-9ecd-7df14edae4a2",
+      "comment": "",
+      "command": "click",
+      "target": "css=.td-holds:nth-child(3)",
+      "targets": [
+        ["css=.td-holds:nth-child(3)", "css:finder"],
+        ["xpath=//div[@id='transaction-detail-result']/div/div/table/tbody/tr/td[3]", "xpath:idRelative"],
+        ["xpath=//td[3]", "xpath:position"],
+        ["xpath=//td[contains(.,'Released')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "6093df5e-311d-4394-9117-8f2026ecf350",
+      "comment": "",
+      "command": "verifyText",
+      "target": "css=.td-holds:nth-child(3)",
+      "targets": [
+        ["css=.td-holds:nth-child(3)", "css:finder"],
+        ["xpath=//div[@id='transaction-detail-result']/div/div/table/tbody/tr/td[3]", "xpath:idRelative"],
+        ["xpath=//td[3]", "xpath:position"],
+        ["xpath=//td[contains(.,'Released')]", "xpath:innerText"]
+      ],
+      "value": "Released"
+    }, {
+      "id": "f68b3b97-add6-43b3-bc0e-d0fee4bc65cc",
+      "comment": "",
+      "command": "click",
+      "target": "css=.holds-Held",
+      "targets": [
+        ["css=.holds-Held", "css:finder"],
+        ["xpath=//div[@id='transaction-detail-result']/div/div/table/tbody/tr/td[4]", "xpath:idRelative"],
+        ["xpath=//td[4]", "xpath:position"],
+        ["xpath=//td[contains(.,'Held')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "74d9774e-d32a-4f19-8d86-1c6799498690",
+      "comment": "",
+      "command": "verifyText",
+      "target": "css=.holds-Held",
+      "targets": [
+        ["css=.holds-Held", "css:finder"],
+        ["xpath=//div[@id='transaction-detail-result']/div/div/table/tbody/tr/td[4]", "xpath:idRelative"],
+        ["xpath=//td[4]", "xpath:position"],
+        ["xpath=//td[contains(.,'Held')]", "xpath:innerText"]
+      ],
+      "value": "Held"
+    }, {
+      "id": "ffdd84a8-aca2-4b63-b456-f9491ef05c66",
+      "comment": "",
+      "command": "click",
+      "target": "css=.td-holds:nth-child(5)",
+      "targets": [
+        ["css=.td-holds:nth-child(5)", "css:finder"],
+        ["xpath=//div[@id='transaction-detail-result']/div/div/table/tbody/tr/td[5]", "xpath:idRelative"],
+        ["xpath=//td[5]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "e84dab8b-9893-4e67-80e4-87d680d8680c",
+      "comment": "",
+      "command": "verifyText",
+      "target": "css=.td-holds:nth-child(5)",
+      "targets": [
+        ["css=.td-holds:nth-child(5)", "css:finder"],
+        ["xpath=//div[@id='transaction-detail-result']/div/div/table/tbody/tr/td[5]", "xpath:idRelative"],
+        ["xpath=//td[5]", "xpath:position"]
+      ],
+      "value": "Released"
+    }, {
+      "id": "7dae4c87-124e-4793-a81b-2d1f95a24d14",
+      "comment": "",
+      "command": "click",
+      "target": "css=.td-holds:nth-child(6)",
+      "targets": [
+        ["css=.td-holds:nth-child(6)", "css:finder"],
+        ["xpath=//div[@id='transaction-detail-result']/div/div/table/tbody/tr/td[6]", "xpath:idRelative"],
+        ["xpath=//td[6]", "xpath:position"],
+        ["xpath=//td[contains(.,'None')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "f6558534-3361-4664-989c-085258ceed33",
+      "comment": "",
+      "command": "verifyText",
+      "target": "css=.td-holds:nth-child(6)",
+      "targets": [
+        ["css=.td-holds:nth-child(6)", "css:finder"],
+        ["xpath=//div[@id='transaction-detail-result']/div/div/table/tbody/tr/td[6]", "xpath:idRelative"],
+        ["xpath=//td[6]", "xpath:position"],
+        ["xpath=//td[contains(.,'None')]", "xpath:innerText"]
+      ],
+      "value": "None"
+    }, {
+      "id": "ab215b83-0766-48b5-9ef6-ae2e35511734",
+      "comment": "",
+      "command": "click",
+      "target": "css=.nowrap",
+      "targets": [
+        ["css=.nowrap", "css:finder"],
+        ["xpath=//div[@id='transaction-detail-result']/div/div/table/tbody/tr/td[7]", "xpath:idRelative"],
+        ["xpath=//td[7]", "xpath:position"],
+        ["xpath=//td[contains(.,'N/A')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "4646e068-9f62-4ebe-bf3f-e942f09ee09f",
+      "comment": "",
+      "command": "verifyText",
+      "target": "css=.nowrap",
+      "targets": [
+        ["css=.nowrap", "css:finder"],
+        ["xpath=//div[@id='transaction-detail-result']/div/div/table/tbody/tr/td[7]", "xpath:idRelative"],
+        ["xpath=//td[7]", "xpath:position"],
+        ["xpath=//td[contains(.,'N/A')]", "xpath:innerText"]
+      ],
+      "value": "N/A"
+    }, {
+      "id": "cf5cf269-e0f0-47cc-894e-c8c588ff3e3d",
+      "comment": "",
+      "command": "click",
+      "target": "css=.row-odd",
+      "targets": [
+        ["css=.row-odd", "css:finder"],
+        ["xpath=//div[@id='transaction-detail-result']/div/div/table/tbody/tr", "xpath:idRelative"],
+        ["xpath=//tbody/tr", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "1dfa0c70-e359-4fff-aab3-64632737950f",
+      "comment": "",
+      "command": "verifyText",
+      "target": "css=td:nth-child(8)",
+      "targets": [
+        ["css=td:nth-child(8)", "css:finder"],
+        ["xpath=//div[@id='transaction-detail-result']/div/div/table/tbody/tr/td[8]", "xpath:idRelative"],
+        ["xpath=//td[8]", "xpath:position"],
+        ["xpath=//td[contains(.,'$0.00')]", "xpath:innerText"]
+      ],
+      "value": "$0.00"
+    }, {
+      "id": "5ad7031a-6fcb-4d60-ad6a-9926ffb99ffc",
+      "comment": "",
+      "command": "click",
+      "target": "css=.holds-No",
+      "targets": [
+        ["css=.holds-No", "css:finder"],
+        ["xpath=//div[@id='transaction-detail-result']/div/div/table/tbody/tr/td[9]", "xpath:idRelative"],
+        ["xpath=//td[9]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "b9974116-48a2-4711-b41e-e59dc7138bca",
+      "comment": "",
+      "command": "verifyText",
+      "target": "css=.holds-No",
+      "targets": [
+        ["css=.holds-No", "css:finder"],
+        ["xpath=//div[@id='transaction-detail-result']/div/div/table/tbody/tr/td[9]", "xpath:idRelative"],
+        ["xpath=//td[9]", "xpath:position"]
+      ],
+      "value": "No"
+    }, {
+      "id": "15b42d87-e236-4c1b-bd6b-e65f320c8248",
+      "comment": "",
+      "command": "click",
+      "target": "css=td:nth-child(10)",
+      "targets": [
+        ["css=td:nth-child(10)", "css:finder"],
+        ["xpath=//div[@id='transaction-detail-result']/div/div/table/tbody/tr/td[10]", "xpath:idRelative"],
+        ["xpath=//td[10]", "xpath:position"],
+        ["xpath=//td[contains(.,'On-Board Vessel N/A')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "a34325c2-67aa-4895-b3d1-fd5ac4ee99ca",
+      "comment": "",
+      "command": "verifyText",
+      "target": "css=td:nth-child(10)",
+      "targets": [
+        ["css=td:nth-child(10)", "css:finder"],
+        ["xpath=//div[@id='transaction-detail-result']/div/div/table/tbody/tr/td[10]", "xpath:idRelative"],
+        ["xpath=//td[10]", "xpath:position"],
+        ["xpath=//td[contains(.,'On-Board Vessel N/A')]", "xpath:innerText"]
+      ],
+      "value": "On-Board Vessel N/A"
+    }, {
+      "id": "88cebec5-510a-46ac-aaa2-87917218f9ae",
+      "comment": "",
+      "command": "click",
+      "target": "css=.td-dim",
+      "targets": [
+        ["css=.td-dim", "css:finder"],
+        ["xpath=//div[@id='transaction-detail-result']/div/div/table/tbody/tr/td[11]", "xpath:idRelative"],
+        ["xpath=//td[11]", "xpath:position"],
+        ["xpath=//td[contains(.,'40/SD/96')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "3a06c779-33fc-4b41-a08c-d1da43998d16",
+      "comment": "",
+      "command": "click",
+      "target": "css=.th-main > th:nth-child(4)",
+      "targets": [
+        ["css=.th-main > th:nth-child(4)", "css:finder"],
+        ["xpath=//div[@id='transaction-detail-result']/div/div/table/thead/tr/th[4]", "xpath:idRelative"],
+        ["xpath=//th[4]", "xpath:position"],
+        ["xpath=//th[contains(.,'Demurrage')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "624df2dc-fb74-41bc-bd14-6318f01a3dbc",
+      "comment": "",
+      "command": "click",
+      "target": "css=.td-dim",
+      "targets": [
+        ["css=.td-dim", "css:finder"],
+        ["xpath=//div[@id='transaction-detail-result']/div/div/table/tbody/tr/td[11]", "xpath:idRelative"],
+        ["xpath=//td[11]", "xpath:position"],
+        ["xpath=//td[contains(.,'40/SD/96')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "e5733b7d-602d-4c54-9f00-fff79536b35f",
+      "comment": "",
+      "command": "verifyText",
+      "target": "css=.td-dim",
+      "targets": [
+        ["css=.td-dim", "css:finder"],
+        ["xpath=//div[@id='transaction-detail-result']/div/div/table/tbody/tr/td[11]", "xpath:idRelative"],
+        ["xpath=//td[11]", "xpath:position"],
+        ["xpath=//td[contains(.,'40/SD/96')]", "xpath:innerText"]
+      ],
+      "value": "40/SD/96"
+    }]
+  }],
+  "suites": [{
+    "id": "36742df4-f2e6-4f28-9a26-96d602714e1c",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["66c60a62-975a-4bc9-9ca4-e4bfa8f3bf15"]
+  }],
+  "urls": ["https://jacksonville.trapac.com/"],
+  "plugins": []
+}
