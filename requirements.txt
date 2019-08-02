@@ -3,5 +3,3 @@ gunicorn
 django-heroku
 requests
 twilio
-datetime
-json
