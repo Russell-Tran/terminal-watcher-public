@@ -22,4 +22,5 @@ if __name__ == '__main__':
 	tadabase_practice.update_all_datetime_now(table_id=aquavian_containers_table_id, 
 		field_id=aquavian_datetime_field_id)
 
-	twilio_practice.quick_text("Aquavian containers datetime updated at " + now_string)
+	# Commented out cause it's annoying
+	# twilio_practice.quick_text("Aquavian containers datetime updated at " + now_string)
