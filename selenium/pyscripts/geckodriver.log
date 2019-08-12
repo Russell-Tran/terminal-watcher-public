@@ -1,0 +1,946 @@
+1564982333646	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.v6jVRnDkhTgX"
+1564982333948	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564982333948	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564982333949	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564982333949	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1564982335129	Marionette	INFO	Listening on port 42375
+1564982335153	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+1564982351020	Marionette	INFO	Stopped listening on port 42375
+1564982538984	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ttdY247Z2ZNY"
+1564982539275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564982539275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564982539275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564982539275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1564982540521	Marionette	INFO	Listening on port 43073
+1564982540610	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+1564982555892	Marionette	INFO	Stopped listening on port 43073
+1564982925273	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gySFYKFk6kdz"
+1564982925568	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564982925568	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564982925569	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564982925569	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1564982926815	Marionette	INFO	Listening on port 43247
+1564982926878	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+1564982949737	Marionette	INFO	Stopped listening on port 43247
+1564982950443	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fG6SMmFDEnHm"
+1564982950741	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564982950741	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564982950741	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564982950741	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1564982951970	Marionette	INFO	Listening on port 46419
+1564982952064	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.ttilgb.com"
+console.warn: nsLoginManager: "searchLogins: `formSubmitURL` or `httpRealm` is recommended"
+[Parent 6406, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-tGfEvD/firefox-68.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 6406, Gecko_IOThread] WARNING: pipe error (100): Connection reset by peer: file /build/firefox-tGfEvD/firefox-68.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1564982997746	Marionette	INFO	Stopped listening on port 46419
+1564983040673	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dkpSdLBxZzjU"
+1564983040966	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564983040967	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564983040967	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564983040967	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1564983042173	Marionette	INFO	Listening on port 38413
+1564983042179	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
+1564983063174	Marionette	INFO	Stopped listening on port 38413
+1564983123067	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.OgaivHwXmzdD"
+1564983123366	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564983123366	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564983123366	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564983123366	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1564983124779	Marionette	INFO	Listening on port 36823
+1564983124878	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
+1564983138427	Marionette	INFO	Stopped listening on port 36823
+1564983206544	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UYnlNkN8gJIG"
+1564983206844	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564983206844	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564983206845	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564983206845	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1564983208004	Marionette	INFO	Listening on port 40775
+1564983208049	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+1564983235844	Marionette	INFO	Stopped listening on port 40775
+1564983302297	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3ovYlAVdQBhc"
+1564983302598	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564983302599	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564983302599	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564983302599	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1564983303887	Marionette	INFO	Listening on port 42799
+1564983303902	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+1564983317319	Marionette	INFO	Stopped listening on port 42799
+1564983355857	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DdGAmrPTJW1U"
+1564983356163	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564983356163	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564983356163	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564983356163	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1564983357586	Marionette	INFO	Listening on port 37411
+1564983357678	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+1564983365060	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+openRemotePrompt@resource://gre/modules/Prompter.jsm:508:17
+openPrompt@resource://gre/modules/Prompter.jsm:543:17
+alert@resource://gre/modules/Prompter.jsm:615:14
+logInError@https://www.ttilgb.com/resource/js/biz/main/main.js:220:2
+error@https://www.ttilgb.com/resource/js/CoCommon.js:44:8
+handleError@https://www.ttilgb.com/resource/js/jquery/jquery-1.4.2.min.js:130:271
+ajax/x.onreadystatechange@https://www.ttilgb.com/resource/js/jquery/jquery-1.4.2.min.js:129:382
+ajax@https://www.ttilgb.com/resource/js/jquery/jquery-1.4.2.min.js:130:105
+$.ajax@https://www.ttilgb.com/resource/js/jquery/jquery.validate.js:1099:15
+ComSearchFunction@https://www.ttilgb.com/resource/js/CoCommon.js:33:4
+clickLogIn@https://www.ttilgb.com/resource/js/biz/main/main.js:192:2
+onclick@https://www.ttilgb.com/main/index.do:1:1
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:202:14
+webdriverClickElement@chrome://marionette/content/interaction.js:183:11
+1564983377799	Marionette	INFO	Stopped listening on port 37411
+1564983421366	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZHK4lCqW3w85"
+1564983421670	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564983421670	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564983421670	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564983421670	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1564983423050	Marionette	INFO	Listening on port 46505
+1564983423071	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+JavaScript warning: resource:///modules/UrlbarView.jsm, line 123: Array.reduce is deprecated; use Array.prototype.reduce instead
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
+[Parent 7876, Gecko_IOThread] WARNING: pipe error (121): Connection reset by peer: file /build/firefox-tGfEvD/firefox-68.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 7876, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-tGfEvD/firefox-68.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1564983557356	Marionette	INFO	Stopped listening on port 46505
+1564983560245	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4BSQyhOH04Lz"
+1564983560551	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564983560551	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564983560551	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564983560551	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1564983561873	Marionette	INFO	Listening on port 35895
+1564983561952	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
+[Parent 8193, Gecko_IOThread] WARNING: pipe error (85): Connection reset by peer: file /build/firefox-tGfEvD/firefox-68.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 8193, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-tGfEvD/firefox-68.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1564983615164	Marionette	INFO	Stopped listening on port 35895
+1564983701791	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Or3iq0BRCDnV"
+1564983702086	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564983702086	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564983702086	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564983702086	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1564983703221	Marionette	INFO	Listening on port 43689
+1564983703300	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+[Parent 8470, Gecko_IOThread] WARNING: pipe error (133): Connection reset by peer: file /build/firefox-tGfEvD/firefox-68.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 8470, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-tGfEvD/firefox-68.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1564983750063	Marionette	INFO	Stopped listening on port 43689
+1564983751952	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RRh8w3trTGKa"
+1564983752246	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564983752247	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564983752247	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564983752247	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1564983753565	Marionette	INFO	Listening on port 34957
+1564983753667	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+[Parent 8724, Gecko_IOThread] WARNING: pipe error (71): Connection reset by peer: file /build/firefox-tGfEvD/firefox-68.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 8724, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-tGfEvD/firefox-68.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1564983804749	Marionette	INFO	Stopped listening on port 34957
+1564983863738	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.zDVvhenY1snx"
+1564983864037	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564983864037	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564983864038	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564983864038	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1564983865191	Marionette	INFO	Listening on port 41907
+1564983865243	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
+1564983889644	Marionette	INFO	Stopped listening on port 41907
+1564983951422	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.GdISJnFKei1Z"
+1564983951715	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564983951715	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564983951715	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564983951715	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1564983952847	Marionette	INFO	Listening on port 42521
+1564983952926	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221564790410142%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+1564984031511	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.HSFgTtm2h2nw"
+1564984031806	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564984031806	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564984031807	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564984031807	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1564984033111	Marionette	INFO	Listening on port 39013
+1564984033134	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221564790410142%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+JavaScript warning: resource:///modules/UrlbarView.jsm, line 123: Array.reduce is deprecated; use Array.prototype.reduce instead
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
+[Parent 9455, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-tGfEvD/firefox-68.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 9455, Gecko_IOThread] WARNING: pipe error (90): Connection reset by peer: file /build/firefox-tGfEvD/firefox-68.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1564984189533	Marionette	INFO	Stopped listening on port 39013
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
+[Parent 9220, Gecko_IOThread] WARNING: pipe error (93): Connection reset by peer: file /build/firefox-tGfEvD/firefox-68.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 9220, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-tGfEvD/firefox-68.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1564984191591	Marionette	INFO	Stopped listening on port 42521
+1564984193480	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.NgXe6Lh6quXg"
+1564984193777	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564984193777	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564984193778	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564984193778	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1564984195053	Marionette	INFO	Listening on port 40807
+1564984195104	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
+[Parent 10015, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-tGfEvD/firefox-68.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 10015, Gecko_IOThread] WARNING: pipe error (98): Connection reset by peer: file /build/firefox-tGfEvD/firefox-68.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1564984230309	Marionette	INFO	Stopped listening on port 40807
+1564984231847	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fUOH7hAHAJgu"
+1564984232143	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564984232143	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564984232143	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564984232143	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1564984233269	Marionette	INFO	Listening on port 38847
+1564984233352	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+1564984281264	Marionette	INFO	Stopped listening on port 38847
+1564984293288	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.HObVeoSU48So"
+1564984293587	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564984293587	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564984293587	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564984293587	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1564984294882	Marionette	INFO	Listening on port 43963
+1564984294894	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
+[Parent 10502, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-tGfEvD/firefox-68.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 10502, Gecko_IOThread] WARNING: pipe error (98): Connection reset by peer: file /build/firefox-tGfEvD/firefox-68.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1564984339409	Marionette	INFO	Stopped listening on port 43963
+1564984340694	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.NuOPyuQvHBUu"
+1564984340987	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564984340987	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564984340988	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564984340988	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1564984342139	Marionette	INFO	Listening on port 38739
+1564984342198	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+1564984371015	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.mAgz0NLANwFl"
+1564984371319	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564984371319	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564984371319	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564984371320	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1564984371828	Marionette	INFO	Stopped listening on port 38739
+1564984372495	Marionette	INFO	Listening on port 44319
+1564984372520	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+1564984396334	Marionette	INFO	Stopped listening on port 44319
+1564984533739	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Rjy8PO5xQHZQ"
+1564984534033	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564984534033	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564984534033	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564984534033	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1564984535244	Marionette	INFO	Listening on port 34121
+1564984535378	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
+[Parent 11232, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-tGfEvD/firefox-68.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 11232, Gecko_IOThread] WARNING: pipe error (93): Connection reset by peer: file /build/firefox-tGfEvD/firefox-68.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1564984725218	Marionette	INFO	Stopped listening on port 34121
+1564984728432	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KeXJg3dJaAOJ"
+1564984728726	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564984728726	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564984728726	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564984728726	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1564984730013	Marionette	INFO	Listening on port 34339
+1564984730038	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+1564984755333	Marionette	INFO	Stopped listening on port 34339
+1564984775448	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.QRuSaqk5XI5W"
+1564984775752	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564984775752	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564984775752	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564984775752	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1564984777028	Marionette	INFO	Listening on port 44589
+1564984777053	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+[Parent 11791, Gecko_IOThread] WARNING: pipe error (108): Connection reset by peer: file /build/firefox-tGfEvD/firefox-68.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 11791, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-tGfEvD/firefox-68.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1564984810368	Marionette	INFO	Stopped listening on port 44589
+1564984812288	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.xMXhkciVA7Bf"
+1564984812585	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564984812585	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564984812585	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564984812585	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1564984813858	Marionette	INFO	Listening on port 35401
+1564984813893	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221564790410142%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+JavaScript warning: resource:///modules/UrlbarView.jsm, line 123: Array.reduce is deprecated; use Array.prototype.reduce instead
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.jqwidgets.com/jquery-widgets-demo/jqwidgets/jqxlistbox.js, line 8: unreachable code after return statement
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+JavaScript error: https://www.ttilgb.com/uiArp02Action/searchContainerInformationListByCntrNo.do?tmlCd=USLGB&srchTpCd=C&cntrNo=BEAU2820198&acssHis=USLGB,0245APP,0346046,B86569&authKey=111111010001101011001110100#, line 12: TypeError: parent.logOff is not a function
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1564985975048	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.iPMJ0ygvaO7u"
+1564985975342	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564985975343	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564985975343	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564985975343	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1564985976538	Marionette	INFO	Listening on port 44499
+1564985976554	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+[Parent 14736, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-tGfEvD/firefox-68.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 14736, Gecko_IOThread] WARNING: pipe error (87): Connection reset by peer: file /build/firefox-tGfEvD/firefox-68.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1564986044088	Marionette	INFO	Stopped listening on port 44499
+[Parent 12015, Gecko_IOThread] WARNING: pipe error (95): Connection reset by peer: file /build/firefox-tGfEvD/firefox-68.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 12015, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-tGfEvD/firefox-68.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1564986051064	Marionette	INFO	Stopped listening on port 35401
+1564986055684	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.f15G9TNvGXzY"
+1564986055993	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564986055993	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564986055993	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564986055993	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1564986057295	Marionette	INFO	Listening on port 40113
+1564986057392	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+1564986086337	Marionette	INFO	Stopped listening on port 40113
+1564986093350	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YPmOS3y51Ego"
+1564986093645	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564986093645	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564986093645	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564986093645	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1564986094975	Marionette	INFO	Listening on port 35833
+1564986095054	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+1564986114977	Marionette	INFO	Stopped listening on port 35833
+1564986195168	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.E4rAJs3OVlEI"
+1564986195478	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564986195479	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564986195479	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564986195479	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1564986196847	Marionette	INFO	Listening on port 37923
+1564986196878	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
+[Parent 15627, Gecko_IOThread] WARNING: pipe error (133): Connection reset by peer: file /build/firefox-tGfEvD/firefox-68.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 15627, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-tGfEvD/firefox-68.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1564986302614	Marionette	INFO	Stopped listening on port 37923
+1564986341335	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.t3ULGsJBqJDn"
+1564986341635	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564986341635	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564986341636	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564986341636	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1564986342953	Marionette	INFO	Listening on port 36599
+1564986343039	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+1564986364484	Marionette	INFO	Stopped listening on port 36599
+1564986365499	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RO0BpyEcNkxC"
+1564986365795	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564986365795	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564986365795	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564986365795	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1564986367141	Marionette	INFO	Listening on port 33729
+1564986367205	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+1564986428647	Marionette	INFO	Stopped listening on port 33729
+1564986536256	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.W5lDmvMmURYv"
+1564986536550	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564986536550	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564986536550	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564986536550	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1564986537896	Marionette	INFO	Listening on port 43281
+1564986537961	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+1564986564151	Marionette	INFO	Stopped listening on port 43281
+1564986655843	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.NMEfsT0Vg9uD"
+1564986656140	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564986656140	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564986656140	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564986656140	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1564986657501	Marionette	INFO	Listening on port 33339
+1564986657548	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+1564986672480	Marionette	INFO	Stopped listening on port 33339
+1564986706321	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.w0adxOtB4hGr"
+1564986706615	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564986706615	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564986706615	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564986706615	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1564986707887	Marionette	INFO	Listening on port 37909
+1564986707926	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+1564986725830	Marionette	INFO	Stopped listening on port 37909
+1564986753663	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qqMsefLkjQcj"
+1564986753971	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564986753971	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564986753971	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564986753971	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1564986755270	Marionette	INFO	Listening on port 35113
+1564986755383	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+[Parent 17454, Gecko_IOThread] WARNING: pipe error (98): Connection reset by peer: file /build/firefox-tGfEvD/firefox-68.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 17454, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-tGfEvD/firefox-68.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1564986912812	Marionette	INFO	Stopped listening on port 35113
+1564986961753	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gl9Kha0pYLBI"
+1564986962047	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564986962047	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564986962047	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564986962047	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1564986963268	Marionette	INFO	Listening on port 33981
+1564986963358	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+1564986975579	Marionette	INFO	Stopped listening on port 33981
+1564987268167	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.jhKqqr6rG2V9"
+1564987268462	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564987268463	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564987268463	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564987268463	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1564987269605	Marionette	INFO	Listening on port 45113
+1564987269678	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+[Parent 18240, Gecko_IOThread] WARNING: pipe error (98): Connection reset by peer: file /build/firefox-tGfEvD/firefox-68.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 18240, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-tGfEvD/firefox-68.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1564987301837	Marionette	INFO	Stopped listening on port 45113
+1564987371303	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.PPplbI6JPNGa"
+1564987371599	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564987371599	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564987371599	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564987371599	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1564987372696	Marionette	INFO	Listening on port 46153
+1564987372710	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+1564987395264	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.q7oiBfGvBCjl"
+1564987395559	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564987395559	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564987395559	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564987395559	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1564987396822	Marionette	INFO	Listening on port 46389
+1564987396875	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+1564987412411	Marionette	INFO	Stopped listening on port 46389
+1564987477161	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.AoiQP4fE2aVj"
+1564987477455	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564987477455	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564987477455	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564987477455	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1564987478675	Marionette	INFO	Listening on port 34733
+1564987478801	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+1564987486781	Marionette	INFO	Stopped listening on port 34733
+1564987507402	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fvN8FSV6zwec"
+1564987507702	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564987507702	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564987507702	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564987507702	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1564987508968	Marionette	INFO	Listening on port 34461
+1564987509009	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+1564987525378	Marionette	INFO	Stopped listening on port 34461
+1564987555722	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.lFQBj23wdGAe"
+1564987556016	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564987556016	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564987556016	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564987556016	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1564987557315	Marionette	INFO	Listening on port 35475
+1564987557340	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+1564987588864	Marionette	INFO	Stopped listening on port 35475
+1564987589006	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yIIJB3dVnqGa"
+1564987589312	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564987589313	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564987589313	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564987589313	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1564987590456	Marionette	INFO	Listening on port 39041
+1564987590532	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
+[Parent 19864, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-tGfEvD/firefox-68.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 19864, Gecko_IOThread] WARNING: pipe error (80): Connection reset by peer: file /build/firefox-tGfEvD/firefox-68.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1564987789560	Marionette	INFO	Stopped listening on port 39041
+1564987906312	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.TMJucNPfWbSY"
+1564987906607	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564987906608	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564987906608	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564987906608	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1564987907764	Marionette	INFO	Listening on port 32797
+1564987907820	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+1564987920798	Marionette	INFO	Stopped listening on port 32797
+1564988312607	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.jqFGMhjrN5tx"
+1564988312903	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564988312904	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564988312904	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564988312904	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1564988314201	Marionette	INFO	Listening on port 42847
+1564988314224	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1
+console.error: "NetworkHelper.getReasonsForWeakness threw an exception: STATE_IS_BROKEN without a known reason. Full state was: 1"
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
+[Parent 20851, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-tGfEvD/firefox-68.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 20851, Gecko_IOThread] WARNING: pipe error (93): Connection reset by peer: file /build/firefox-tGfEvD/firefox-68.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1564988516667	Marionette	INFO	Stopped listening on port 42847
+1564988549209	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.zssWTuIc8kDI"
+*** You are running in headless mode.
+1564988549465	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564988549465	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564988549465	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564988549465	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1564988550551	Marionette	INFO	Listening on port 46421
+1564988550615	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221564790410142%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+1564988693040	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.A3YeXI4L1x3F"
+1564988693365	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564988693365	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564988693365	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564988693365	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1564988694526	Marionette	INFO	Listening on port 46169
+1564988694545	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+JavaScript warning: https://www.ttilgb.com/resource/js/moment.min.js, line 6: unreachable code after return statement
+1564988709945	Marionette	INFO	Stopped listening on port 46169
