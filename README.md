@@ -1,7 +1,7 @@
 # Terminal_Watcher
 Watches the freight terminal websites. Old project from 2019, meant to be a better version of Crux Systems
 
-# Notes on what Crux Systems seemed to lack at the time
+## Notes on what Crux Systems seemed to lack at the time
 * Coverage was not 100% of the terminals, which rendered it useless
 * I don't believe it covered the terminals covered by eModal
 * Ability to save your credit card and pay all terminal bills from a single interface (aka Plaid-esque stuff)
