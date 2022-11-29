@@ -1,4 +1,5 @@
 # Terminal_Watcher
+<img src="./terminal_watcher.png" height="400"> 
 Watches the freight terminal websites. Old project from 2019, meant to be a better version of Crux Systems
 
 ## Notes on what Crux Systems seemed to lack at the time
